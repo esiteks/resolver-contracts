@@ -1,0 +1,17 @@
+{
+    "name": "esiteks/resolver-contracts",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Esiteks\\Contracts\\Resolver": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "feeder-afk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
